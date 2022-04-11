@@ -40,7 +40,7 @@ Users should be able to:
 - Basic HTML coding
 - Basic CSS coding
 - Learning basics of bootstrap to make page responsive
-- Coding responsivnes
+- Coding responsiveness
 
 ### Built with
 
